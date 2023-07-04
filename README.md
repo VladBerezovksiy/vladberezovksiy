@@ -27,4 +27,4 @@ I am an Automation Quality Assurance Engineer with +1 year commercial experience
 
 ### 💻 Stack:
 
-Java | C# | Selenium WebDriver | Selenide | Maven | TestNg | Allure | Jenkins
+Java | C# | Selenium WebDriver | Selenide | Maven | TestNg | Allure | Jenkins | Lombok | Log4j2 | Google Cloud | SQL
