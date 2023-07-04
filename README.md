@@ -2,7 +2,7 @@
 
 ---
 
-## :man_technologist: Обо мне:
+## :man_technologist: About me:
 
 I am an Automation Quality Assurance Engineer with +1 year commercial experience.
 
@@ -12,7 +12,7 @@ I am an Automation Quality Assurance Engineer with +1 year commercial experience
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Social Networks:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/vlad-berezovskyi" target="_blank">
