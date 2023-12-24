@@ -1,4 +1,4 @@
-# Hi, my name is Vlad!
+# Hi, my name is Vladyslav!
 
 ---
 
@@ -27,4 +27,4 @@ Experienced QA Automation Engineer in Web. I am working as a QA Automation Engin
 
 ### 💻 Stack:
 
-Java | C# | Selenium WebDriver | Selenide | Maven | TestNg | Allure | Jenkins | Lombok | Log4j2 | Google Cloud | SQL
+Java | Selenium WebDriver | Selenide | Appium | Maven | TestNg | Allure | Jenkins | Lombok | Log4j2 | Google Cloud | SQL
