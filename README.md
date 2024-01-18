@@ -27,4 +27,4 @@ Experienced QA Automation Engineer in Web. I am working as a QA Automation Engin
 
 ### 💻 Stack:
 
-Java | Selenium WebDriver | Selenide | Appium | Maven | TestNg | Allure | Jenkins | Lombok | Log4j2 | Google Cloud | SQL
+Java | Python | Selenium WebDriver | Selenide | Appium | PyTest | Maven | TestNg | Allure | Jenkins | Lombok | Log4j2 | Google Cloud | SQL
