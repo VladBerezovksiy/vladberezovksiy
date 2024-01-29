@@ -29,4 +29,4 @@ I love the gym, swimming and cycling. I also like to play board games with frien
 
 ### 💻 Stack:
 
-Java | Python | Selenium WebDriver | Selenide | Appium | PyTest | Maven | TestNg | Allure | Jenkins | Lombok | Log4j2 | Google Cloud | SQL
+Java | Python | Selenium WebDriver | Selenide | Appium | PyTest | TestNg | Maven | Allure | Jenkins | Lombok | Log4j2 | Google Cloud | SQL
