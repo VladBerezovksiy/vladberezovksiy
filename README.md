@@ -27,13 +27,13 @@ QA Automation Engineer with 3 years of experience in building and maintaining au
 
 ### 💻 Stack:
 
-📌 Language: English (Upper-Intermediate), Ukrainian (Native);
-📌 Programming Language: TypeScript/JavaScript, Java;
-📌 UI Test Framework: Cypress, Selenide, Selenium WebDriver;
-📌 API Test Framework: Cypress, RestAssured;
-📌 Mobile Test Framework: Appium;
-📌 Reporting: Allure, Mocha;
-📌 CI/CD: Jenkins, GitLab CI, GitHub Action;
-📌 VCS: Git;
-📌 Management System: JIRA, Trello;
-📌 OS: Windows, Linux, MacOS, Android;
+* 📌 Language: English (Upper-Intermediate), Ukrainian (Native);
+* 📌 Programming Language: TypeScript/JavaScript, Java;
+* 📌 UI Test Framework: Cypress, Selenide, Selenium WebDriver;
+* 📌 API Test Framework: Cypress, RestAssured;
+* 📌 Mobile Test Framework: Appium;
+* 📌 Reporting: Allure, Mocha;
+* 📌 CI/CD: Jenkins, GitLab CI, GitHub Actions;
+* 📌 VCS: Git;
+* 📌 Management System: JIRA, Trello;
+* 📌 OS: Windows, Linux, MacOS, Android;
