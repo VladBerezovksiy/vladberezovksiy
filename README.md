@@ -4,9 +4,7 @@
 
 ## :man_technologist: About me:
 
-Experienced QA Automation Engineer in Web. I am working as a QA Automation Engineer with 2 years of experience in the software industry. I have worked in domains such as E-commerce. Proven ability to design, develop, and execute automated tests for web applications. Strong understanding of the Software Testing Lifecycle (STLC). Experienced in using a variety of automation tools and frameworks, including Java, Python, Selenium WebDriver, Selenide, TestNG, PyTest, Maven, Allure, Rest Assured and Jenkins. Also, I am a specialist in the field of Information Systems and Technology by education.
-
-I love the gym, swimming and cycling. I also like to play board games with friends. In my work process, I like to find new ways to solve problems.
+QA Automation Engineer with 3 years of experience in building and maintaining automated tests for Web and Mobile applications across E-commerce, Education, and SaaS domains. Experienced in working on products from scratch, improving test efficiency, and collaborating with development teams to ensure high-quality product delivery. Strong ability to identify and resolve defects, with a focus on continuous improvement and adopting new technologies 🚀
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
@@ -29,4 +27,13 @@ I love the gym, swimming and cycling. I also like to play board games with frien
 
 ### 💻 Stack:
 
-Java | Python | Selenium WebDriver | Selenide | Appium | PyTest | TestNg | Maven | Allure | Jenkins | Lombok | Log4j2 | Google Cloud | SQL
+📌 Language: English (Upper-Intermediate), Ukrainian (Native);
+📌 Programming Language: TypeScript/JavaScript, Java;
+📌 UI Test Framework: Cypress, Selenide, Selenium WebDriver;
+📌 API Test Framework: Cypress, RestAssured;
+📌 Mobile Test Framework: Appium;
+📌 Reporting: Allure, Mocha;
+📌 CI/CD: Jenkins, GitLab CI, GitHub Action;
+📌 VCS: Git;
+📌 Management System: JIRA, Trello;
+📌 OS: Windows, Linux, MacOS, Android;
