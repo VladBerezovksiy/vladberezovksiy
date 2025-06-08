@@ -1,10 +1,10 @@
-# Hi, my name is Vladyslav!
+# Hi, my name is Vlad!
 
 ---
 
 ## :man_technologist: About me:
 
-QA Automation Engineer with 3 years of experience in building and maintaining automated tests for Web and Mobile applications across E-commerce, Education, and SaaS domains. Experienced in working on products from scratch, improving test efficiency, and collaborating with development teams to ensure high-quality product delivery. Strong ability to identify and resolve defects, with a focus on continuous improvement and adopting new technologies 🚀
+QA Automation Engineer with 3 years of commercial experience in building and maintaining automated tests for Web and Mobile applications across E-commerce, Education, and LegalTech domains. Skilled in developing automation projects from the ground up, enhancing test efficiency, and collaborating closely with development teams to ensure high-quality product delivery. Strong ability to identify and resolve defects, with a focus on continuous improvement and adopting new technologies 🚀
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
@@ -27,13 +27,13 @@ QA Automation Engineer with 3 years of experience in building and maintaining au
 
 ### 💻 Stack:
 
-* 📌 Language: English (Upper-Intermediate), Ukrainian (Native);
-* 📌 Programming Language: TypeScript/JavaScript, Java;
-* 📌 UI Test Framework: Playwright, Cypress, Selenide, Selenium WebDriver;
-* 📌 API Test Framework: Playwright, Cypress, RestAssured;
-* 📌 Mobile Test Framework: Appium;
-* 📌 Reporting: Allure, Mocha;
+* 📌 Languages: English (Upper-Intermediate), Ukrainian (Native);
+* 📌 Programming Languages: TypeScript/JavaScript, Java;
+* 📌 UI Test Frameworks: Playwright, Cypress, Selenide, Selenium WebDriver;
+* 📌 API Test Frameworks: Cypress, REST Assured;
+* 📌 Mobile Test Frameworks: Appium;
+* 📌 Reporting Tools: Allure, Mocha;
 * 📌 CI/CD: Jenkins, GitLab CI, GitHub Actions;
-* 📌 VCS: Git;
-* 📌 Management System: JIRA, Trello;
-* 📌 OS: Windows, Linux, MacOS, Android;
+* 📌 Version Control: Git;
+* 📌 Test Management Systems: JIRA (Zephyr/Xray), TestRail, Trello;
+* 📌 Operating Systems: Windows, Linux, macOS, Android, iOS;
